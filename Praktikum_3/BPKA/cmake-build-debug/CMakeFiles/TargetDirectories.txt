@@ -1,0 +1,3 @@
+D:/Kuliah/Semester 2/Strukdat/modul-3avlsetmap/BPKA/cmake-build-debug/CMakeFiles/try2.dir
+D:/Kuliah/Semester 2/Strukdat/modul-3avlsetmap/BPKA/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Kuliah/Semester 2/Strukdat/modul-3avlsetmap/BPKA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
